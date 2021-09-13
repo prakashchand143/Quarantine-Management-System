@@ -14,7 +14,7 @@ int main()
    unordered_map<int,Person*> covid_map;
    vector<Person*> healthy;
    vector<Person*> unhealthy;
-   cout<<"                                         Welcome to the Quarantine Centre of NIT Silchar "<<endl;
+   cout<<"                                         Welcome to the Quarantine Centre of IIT Guwahati "<<endl;
    int choice;
    while(1)
    {
